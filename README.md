@@ -1,4 +1,4 @@
-🐸 FrogoBlitz Meme Coin – Full Roadmap (2024–2025)
+🐸 FrogoBlitz Meme Coin – Full Roadmap (2025–2026)
 
 🚀 The Future of FrogoBlitz Begins Now!
 
