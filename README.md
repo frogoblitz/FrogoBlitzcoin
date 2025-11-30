@@ -2,87 +2,124 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>FrogoBlitz Meme Coin – Official Whitepaper (100% Community Supply)</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>FrogoBlitz Meme Coin — Roadmap (2024–2025)</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
   <style>
-    body { font-family: Arial, sans-serif; line-height: 1.6; margin: 24px; color: #111; }
-    header { text-align: center; margin-bottom: 16px; }
-    h1 { font-size: 28px; margin: 8px 0; }
-    h2 { font-size: 20px; margin: 14px 0 6px; }
-    pre { white-space: pre-wrap; }
-    .section { margin-bottom: 14px; }
-    .meta { color: #555; font-size: 14px; }
+    body { font-family: Arial, Helvetica, sans-serif; margin: 20px; line-height:1.5; color:#222; }
+    header { text-align:center; margin-bottom:20px; }
+    h1 { margin:0; font-size:28px; }
+    .subtitle { color:#555; margin-top:6px; }
+    section { border-top:1px solid #e6e6e6; padding-top:14px; margin-top:14px; }
+    ul { margin:8px 0 18px 20px; }
+    .badge { display:inline-block; padding:4px 8px; background:#e8f5e9; border-radius:6px; margin-right:8px; font-weight:600; color:#2e7d32; }
+    footer { margin-top:30px; border-top:1px solid #eee; padding-top:12px; color:#666; font-size:14px; }
+    .links a { color:#1a73e8; text-decoration:none; margin-right:10px; }
+    .highlight { font-weight:700; color:#0b6; }
   </style>
 </head>
 <body>
   <header>
-    <h1>🐸⚡ FrogoBlitz Meme Coin – Official Whitepaper (100% Community Supply)</h1>
-    <div class="meta">Version 1.2 – 2025 · Generated: 2025-11-30 05:51 UTC</div>
+    <h1>🐸 FrogoBlitz Meme Coin — Full Roadmap (2024–2025)</h1>
+    <div class="subtitle">The Future of FrogoBlitz Begins Now!</div>
   </header>
-  <main>
-<p></p>
-<p>1. Introduction</p>
-<p>FrogoBlitz is a pure community-driven meme token designed for fairness, transparency, and mass adoption. No team allocation, no insider supply—100% belongs to the community.</p>
-<p></p>
-<p>2. Vision</p>
-<p>To build the strongest frog-themed meme token fully owned, powered, and expanded by the community without any centralized control.</p>
-<p></p>
-<p>3. Mission</p>
-<p>- Fair distribution</p>
-<p>- No team allocation</p>
-<p>- Community-first utilities</p>
-<p>- Viral meme culture</p>
-<p>- Transparent growth</p>
-<p></p>
-<p>4. Updated Tokenomics (100% Community)</p>
-<h2>Total Supply: 1,000,000,000 (1 Billion)</h2>
-<p>Community Allocation: 100% (1,000,000,000)</p>
-<p>Everything goes to the community.</p>
-<p></p>
-<h2>Distribution table (conceptual):</h2>
-<p>- Community Supply: 100% (1,000,000,000) — Liquidity, rewards, airdrops, staking, tasks—everything driven by community</p>
-<p></p>
-<p>✔️ No Team Tokens</p>
-<p>✔️ No Marketing Wallet</p>
-<p>✔️ No CEX Reserve</p>
-<p>✔️ No Dev Allocation</p>
-<p>✔️ 100% Fair Distribution</p>
-<p></p>
-<p>5. Distribution Method</p>
-<p>- Liquidity Pool</p>
-<p>- Fair Launch</p>
-<p>- Community Rewards</p>
-<p>- Airdrops</p>
-<p>- Staking Rewards</p>
-<p>- Task-to-Earn</p>
-<p>The community will decide usage by vote as needed.</p>
-<p></p>
-<p>6. Key Features</p>
-<p>- Fully community-owned</p>
-<p>- Transparent token supply</p>
-<p>- Strong meme culture</p>
-<p>- Fast-growth branding</p>
-<p>- Community rewards systems</p>
-<p>- Future utilities</p>
-<p></p>
-<p>7. Roadmap</p>
-<h2>Phase 1: Token launch, Website + socials, Initial marketing, Community growth</h2>
-<h2>Phase 2: Staking, Rewards system, Community tasks</h2>
-<h2>Phase 3: NFT Launch, Partnerships, CEX listings (community-funded liquidity)</h2>
-<h2>Phase 4: Ecosystem development, Governance voting, Global expansion</h2>
-<p></p>
-<p>8. Disclaimer</p>
-<p>This is a community-powered meme coin. Always DYOR (Do Your Own Research). Cryptocurrency investments carry risk.</p>
-<p></p>
-<p>Contact & Socials</p>
-<p>Twitter: https://x.com/FrogoBlitz</p>
-<p>Telegram: https://t.me/FrogoBlitz</p>
-<p></p>
-<p>End of Document</p>
 
-  </main>
+  <section>
+    <h2><span class="badge">Phase 1</span> Foundation & Launch Preparation</h2>
+    <ul>
+      <li>Concept Creation (Brand, Mascot, Vision)</li>
+      <li>Tokenomics Finalization (Total Supply, Distribution, Burn Plans)</li>
+      <li>Smart Contract Development (Solana / Pump.Fun)</li>
+      <li>FrogoBlitz Logo, Banner & Visual Identity</li>
+      <li>Social Media Setup — Twitter/X, Telegram, TikTok, YouTube</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 2</span> Official Launch</h2>
+    <ul>
+      <li>Pump.fun Fair Launch</li>
+      <li>Liquidity Lock</li>
+      <li>Initial Marketing Push</li>
+      <li>Community Build-Up</li>
+      <li>First Airdrop Campaign</li>
+      <li>FrogoBlitz Website V1 (Buy, Sell, Chart Links)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 3</span> Community Expansion</h2>
+    <ul>
+      <li>Daily Twitter/X Campaign</li>
+      <li>Meme Contests & Giveaways</li>
+      <li>Partnership with Meme Pages & Influencers</li>
+      <li>Expanding Telegram Community</li>
+      <li>FrogoBlitz Website V2 (Roadmap, About, Token Details)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 4</span> Utility Development</h2>
+    <ul>
+      <li>FrogoBlitz Staking (Passive Earning)</li>
+      <li>FrogoBlitz Faucet Website (Earn by Tasks)</li>
+      <li>Referral Income System</li>
+      <li>Mini Games (Play-to-Earn)</li>
+      <li>Web3 User Dashboard & Holder Verification System</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 5</span> Major Listings</h2>
+    <ul>
+      <li>Dexscreener Auto Listing</li>
+      <li>Solscan Verification</li>
+      <li>Birdeye Listing</li>
+      <li>DEX listings (Raydium / Orca)</li>
+      <li>CoinGecko & CoinMarketCap Listing</li>
+      <li>CEX Listing Targets (Negotiation Phase)</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 6</span> Large Scale Marketing</h2>
+    <ul>
+      <li>Huge Twitter Campaign & Trending Hashtags</li>
+      <li>Banner Ads on Popular Crypto Sites</li>
+      <li>AMA Sessions (Telegram, X Spaces)</li>
+      <li>Partnerships with Web3 Projects & Global Contests</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 7</span> Ecosystem Growth</h2>
+    <ul>
+      <li>FrogoBlitz Wallet (future)</li>
+      <li>FrogoSwap (Basic DEX UI)</li>
+      <li>NFT Collection Launch</li>
+      <li>FrogVerse — Mini Community Hub</li>
+      <li>Charity Events & Community Support</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="badge">Phase 8</span> Long-Term Vision</h2>
+    <ul>
+      <li>Strong Community Base</li>
+      <li>Multiple Utility Platforms</li>
+      <li>Mainstream Crypto Influence & Long-term Holder Rewards</li>
+      <li>International Meme Culture Integration</li>
+    </ul>
+  </section>
+
   <footer>
-    <p style="color:#666;font-size:13px;">FrogoBlitz – community-driven. Always DYOR.</p>
+    <div><strong>Links</strong></div>
+    <div class="links">
+      <a href="https://github.com/frogoblitz/FrogoBlitzcoin" target="_blank">GitHub</a>
+      <a href="https://x.com/FrogoBlitz" target="_blank">Twitter/X</a>
+      <a href="https://t.me/FrogoBlitz" target="_blank">Telegram</a>
+      <a href="https://www.youtube.com/@FrogoBlitz" target="_blank">YouTube</a>
+    </div>
+    <div style="margin-top:10px;">Created on: 2025-11-30</div>
   </footer>
 </body>
 </html>
